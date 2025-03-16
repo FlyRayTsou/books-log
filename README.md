@@ -13,6 +13,29 @@ I read the Mandarin version, so the page numbers may differ.
 - **The easier you are to understand, the smoother your work becomes (P18):** I’ve noticed that the more clearly I can explain my ideas and make my presentations easy to understand, the more smoothly my work progresses.
 
 
+
+### 2
+I couldn't fully understand the three charts, so I will reread this section.  
+Another approach I considered is drawing the organizational chart and identifying my position. This would help me clarify my responsibilities and, if I aim for the next level, visualize the path to get there.  
+
+- **Understand Your Responsibility and Write It Down (P30, P31):**  
+  This is a great practice, and I would like to try it in my next project. I plan to define my core responsibilities and discuss with each team member their goals, responsibilities, execution examples, and successful outcomes. This approach could eliminate ambiguity, making daily tasks and career progression clearer and more actionable.  
+
+- **Boiling Frog vs. Respecting Predecessors (P43):**  
+  When you've been on a project for a long time, certain inconveniences or inefficiencies may become routine, making you overlook them as issues. A fresh perspective from new team members can be valuable in reassessing whether these problems should be addressed.  
+  On the other hand, new joiners might find some architectural decisions odd. However, these choices were likely the best options at the time (local maximum decisions). It's important to highlight concerns but also understand the reasoning behind past decisions.  
+
+- **Overview Chart (P46):**  
+  Visualizing priorities through a chart is an effective way to highlight what truly matters.  
+
+- **If Your Users Are Unhappy, Availability Alone Isn't Enough (P47):**  
+  I interpreted this differently—no matter how high your system's SLA is or how feature-rich your website is, if users don’t like it, you need to rethink your approach. You might be focusing on the wrong aspects.  
+
+- **Consider Alternative Solutions (P48):**  
+  Documenting the reasoning behind decisions and listing alternative solutions is crucial. This helps new team members understand past choices more easily. Additionally, if we need to revisit a decision, we can trace back to why it was made. Sometimes, the reason might be as simple as tight deadlines or the team’s skill set, leaving no better choice at the time.  
+
+
+
 ## Logs
 | No | Date       | Pages  |
 |----|------------|--------|
