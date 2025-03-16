@@ -20,8 +20,11 @@ I read the Mandarin version, so the page numbers may differ.
 | 2  | 2025/03/16 | 29-49  |
 
 ## Resources
+### 1
 - **Kind Engineering**(P16): https://kind.engineering/
 - **Four Disciplines by Yonatan Zunger**(P25)
+
+### 2
 - **LeadDev**(P48): https://leaddev.com/
 - **SREcon**(P48): https://www.usenix.org/srecon
 - **StaffPlus**(P48): https://leaddev.com/staffplus-new-york/
